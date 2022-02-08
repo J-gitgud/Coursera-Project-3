@@ -21,3 +21,18 @@ recorded features train data
 
 y_train <- test/y_train.txt
 activities code labels
+
+Activity variables
+
+"Acc" = "accelerometer"
+"Gyro"= "gyroscope"
+"BodyBody"= "body"
+"Mag"= "magnitude"
+"^t"= "time"
+"^f"= "frequency"
+"tBody"= "TimeBody"
+"-mean()"= "Mean"
+"-std()"= "Deviation"
+"-freq()"= "frequency"
+"angle"= "Angle"
+"gravity"= "gravity"
